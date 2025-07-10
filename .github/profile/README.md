@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ikechukwu
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/84ea59df-9cae-4f88-9de8-4d7a9938afd7" /># 👋 Hi, I'm Ikechukwu
 
 🔧 **Full-Stack Web Developer** | PHP • C# • Python • JavaScript • SQL • AI
 
